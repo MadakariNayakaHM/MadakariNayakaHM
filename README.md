@@ -5,7 +5,7 @@ Software Engineer, Team Lead & Mentor — building GenAI solutions, full-stack p
 - 🔭 Currently a **Team Lead & Software Engineer at Navadhiti** (Aug 2026 – present), working on:
   - **LocalGuard** — a SOC + insurance-evidence platform correlating detection, vulnerability management, AI investigation, and case management into one evidence pipeline.
   - An **internal AI agent that reviews company codebases**, helping catch issues earlier and speed up delivery.
-- 🎓 Pursuing an **M.Tech in Data Science & AI** (Gen AI & Statistical NLP specialization) at **IIIT Dharwad** (Aug 2026 – Jun 2028).
+- 🎓 Pursuing an **M.Tech in Data Science & AI** (Gen AI & Speach and NLP specialization) at **IIIT Dharwad** (Aug 2026 – Jun 2028).
 - 🏆 3 Indian patents, multiple hackathon wins, and the Tech Maestro Award (SmartHub.ai, Jan 2025).
 - 💬 Ask me about full-stack development, RAG/AI agents, or IoT platform integrations.
 - 📫 Reach me at **madakarinayakahm@gmail.com**
